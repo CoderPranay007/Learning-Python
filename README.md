@@ -8,5 +8,5 @@
 - Loops
 - Basic problem solving
 
-## Author
-Pranay
+### Author
+Pranay Khera
