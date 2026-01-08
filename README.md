@@ -1,7 +1,7 @@
-This repository contains my Python learning work.
+# This repository contains my Python learning work.
 
-# Python Week 1 – Fundamentals
-## Topics Covered
+## Python Week 1 – Fundamentals
+### Topics Covered
 - Basics
 - Operators
 - Conditional Statements
