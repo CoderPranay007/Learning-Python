@@ -6,6 +6,7 @@
 - Operators
 - Conditional Statements
 - Loops
+- Strings
 - Basic problem solving
 
 ### Author
